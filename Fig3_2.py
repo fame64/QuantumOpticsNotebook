@@ -1,3 +1,7 @@
+#FIGURE 3.2
+
+#Plot the probability of the number of photons in a coherent state for different \bar(n)
+
 import numpy as np
 import matplotlib 
 import matplotlib.pyplot as plt
