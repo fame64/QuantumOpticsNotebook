@@ -1,3 +1,7 @@
+#FIGURE 3.3
+
+#Make a 3D plot of the evolution of the wavefunction for a coherent state in a Harmonic potential, thus demonstrating that the shape is preserved
+
 import numpy as np
 import matplotlib
 matplotlib.rcParams['mathtext.fontset'] = 'stix'
