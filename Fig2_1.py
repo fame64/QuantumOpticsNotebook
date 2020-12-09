@@ -1,3 +1,7 @@
+#FIGURE 2.1
+
+#Plot the occupation probability for different values of <n>
+
 import numpy as np
 import matplotlib 
 import matplotlib.pyplot as plt
