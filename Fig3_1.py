@@ -1,3 +1,7 @@
+#FIGURE 3.1 
+
+#We compute explicitely the sum on [3.27] and check that for large alpha it tends to a gaussian
+
 from mpmath import *
 import numpy as np
 import matplotlib.pyplot as plt
