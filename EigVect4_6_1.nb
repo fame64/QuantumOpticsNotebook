@@ -1,0 +1,111 @@
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[         0,          0]
+NotebookDataLength[      3269,        110]
+NotebookOptionsPosition[      2634,         86]
+NotebookOutlinePosition[      3032,        102]
+CellTagsIndexPosition[      2989,         99]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"Eigenvectors", "[", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+       RowBox[{
+        RowBox[{"(", 
+         RowBox[{"n", "+", " ", 
+          RowBox[{"1", "/", "2"}]}], ")"}], "w"}], " ", "+", " ", 
+       RowBox[{"\[CapitalDelta]", "/", "2"}]}], ",", " ", 
+      RowBox[{"\[Lambda]", " ", 
+       RowBox[{"Sqrt", "[", 
+        RowBox[{"n", "+", "1"}], "]"}]}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"\[Lambda]", " ", 
+       RowBox[{"Sqrt", "[", 
+        RowBox[{"n", "+", "1"}], "]"}]}], ",", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"(", 
+         RowBox[{"n", "+", " ", 
+          RowBox[{"1", "/", "2"}]}], ")"}], "w"}], " ", "-", " ", 
+       RowBox[{"\[CapitalDelta]", "/", "2"}]}]}], " ", "}"}]}], "}"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.8176535481747026`*^9, 3.817653660274006*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"b3665367-b1ba-4e58-b78c-24e676f17a2e"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"-", 
+      FractionBox[
+       RowBox[{
+        RowBox[{"-", "\[CapitalDelta]"}], "+", 
+        SqrtBox[
+         RowBox[{
+          SuperscriptBox["\[CapitalDelta]", "2"], "+", 
+          RowBox[{"4", " ", 
+           SuperscriptBox["\[Lambda]", "2"]}], "+", 
+          RowBox[{"4", " ", "n", " ", 
+           SuperscriptBox["\[Lambda]", "2"]}]}]]}], 
+       RowBox[{"2", " ", 
+        SqrtBox[
+         RowBox[{"1", "+", "n"}]], " ", "\[Lambda]"}]]}], ",", "1"}], "}"}], 
+   ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"-", 
+      FractionBox[
+       RowBox[{
+        RowBox[{"-", "\[CapitalDelta]"}], "-", 
+        SqrtBox[
+         RowBox[{
+          SuperscriptBox["\[CapitalDelta]", "2"], "+", 
+          RowBox[{"4", " ", 
+           SuperscriptBox["\[Lambda]", "2"]}], "+", 
+          RowBox[{"4", " ", "n", " ", 
+           SuperscriptBox["\[Lambda]", "2"]}]}]]}], 
+       RowBox[{"2", " ", 
+        SqrtBox[
+         RowBox[{"1", "+", "n"}]], " ", "\[Lambda]"}]]}], ",", "1"}], "}"}]}],
+   "}"}]], "Output",
+ CellChangeTimes->{3.817653663924775*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"d2401055-c47d-4e75-8fec-986acbb1d0de"]
+}, Open  ]]
+},
+WindowSize->{606., 658.5},
+WindowMargins->{{223.5, Automatic}, {40.5, Automatic}},
+FrontEndVersion->"12.1 for Linux x86 (64-bit) (June 19, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"c6d664b2-77dc-4e36-915f-8f9f31fb29bf"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[422, 15, 967, 28, 51, "Input",ExpressionUUID->"b3665367-b1ba-4e58-b78c-24e676f17a2e"],
+Cell[1392, 45, 1226, 38, 56, "Output",ExpressionUUID->"d2401055-c47d-4e75-8fec-986acbb1d0de"]
+}, Open  ]]
+}
+]
+*)
+
